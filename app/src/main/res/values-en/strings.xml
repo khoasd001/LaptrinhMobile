@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LOGIN</string>
+    <string name="textViewDangNhap">LOGIN</string>
+    <string name="inputEditTaiKhoan">UsertName</string>
+    <string name="inputEditMatKhau">PassWord</string>
+    <string name="checkBoxLuu">Save Information</string>
+    <string name="buttonDangNhap">Login</string>
+</resources>
